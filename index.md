@@ -8,7 +8,7 @@ hero:
   actions:
     - theme: brand
       text: Профиль на GitHub
-      link: https://github.com/
+      link: https://github.com/polina-h
     - theme: alt
       text: 📄 Резюме в формате PDF
       link: ./cv.pdf
